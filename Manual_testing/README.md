@@ -1,26 +1,15 @@
 # QA_specialist
 
 ##  Manual QA Testing
-
-This folder contains all manual testing documentation for the OrangeHRM open-source HR management system.  
 It simulates a full QA cycle across 3 key functional modules.
 
 **Scope**
 
 The following modules of OrangeHRM were manually tested:
-
    Module   Features Tested 
    Login    Valid/invalid login, empty fields, logout 
     PIM      Add/edit/delete employee, search 
     Admin    Add user, assign roles, disable/delete user 
-
-**Tools Used**
-
-- Excel/PDF for test case management
-- OrangeHRM Live Demo ([opensourcedemo](https://opensource-demo.orangehrmlive.com))
-- Manual browser-based testing (Chrome)
-
-**Summary**
 
 This manual QA project demonstrates:
 - Complete test lifecycle (plan , execute,  report)
@@ -39,7 +28,6 @@ This project automates an end-to-end purchase flow on [SauceDemo](https://www.sa
 - Screenshots on failure
 
 ---
-
 **Project Overview**
 
 This test simulates a full user actions:
